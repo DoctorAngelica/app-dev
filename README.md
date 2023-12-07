@@ -1,6 +1,6 @@
 # app-dev
 My first repository
 
-# Maleficient
-# Avatar
-### The Lion King
+1. Maleficient
+2. The Lion King
+3. Avatar
